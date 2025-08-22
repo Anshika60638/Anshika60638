@@ -78,7 +78,7 @@
   <a href="https://www.linkedin.com/in/anshika-jain-b30172346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/itzan.shika5?igsh=MTc0Z2FxanAxcTlmNA==" target="_blank">
+  <a href="https://www.instagram.com/jainanshika26?igsh=MTc0Z2FxanAxcTlmNA==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
