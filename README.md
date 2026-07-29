@@ -2,7 +2,7 @@
 
 <p align="center">
   🌱 B.Tech CSE (AI & DS) @ Panipat Institute of Engineering and Technology  
-  <br>📍 From Sonipat, Haryana | 🎓 1st Year | CGPA: 7.99
+  <br>📍 From Sonipat, Haryana | 🎓 3rd Year | CGPA: 8.26
 </p>
 
 ---
