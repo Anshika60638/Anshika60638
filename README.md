@@ -156,20 +156,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anshika60638&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika60638&theme=tokyonight&hide_border=true" width="48%" />
-
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika60638&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika60638&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika60638&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
-
-</p>
-
-
+---
 ---
 
 ## 📈 Contribution Activity
