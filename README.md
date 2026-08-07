@@ -25,7 +25,7 @@
 ---
 
 # 👩‍💻 About Me
-
+"<img align= "right" width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/f0fa2ff9-9bf9-4ae3-8606-d9610f4bbd09" />
 🎓 **B.Tech CSE (Artificial Intelligence & Data Science)**  
 🏫 **Panipat Institute of Engineering & Technology (PIET), Panipat**  
 📍 **Sonipat, Haryana**  
@@ -50,40 +50,6 @@
 - Data Structures & Algorithms
 
 🚀 I enjoy building data-driven projects and continuously improving my analytical and problem-solving skills.
-
----
-
-# 🚀 Featured Projects
-
-## 📊 Retail Sales & Profit Dashboard
-
-✔ Power BI Dashboard
-✔ KPI Tracking
-✔ Sales Trend Analysis
-✔ Profit Analysis
-
----
-
-## 📱 Teen Phone Addiction Dashboard
-
-✔ Excel Dashboard
-✔ Interactive Charts
-✔ Data Visualization
-
----
-
-## 💰 Personal Finance Intelligence System *(In Progress)*
-
-✔ Expense Tracking
-✔ Spending Analysis
-✔ Financial Insights
-
----
-
-## 💻 LeetCode Journey
-
-✔ Regular DSA Practice
-✔ Problem Solving
 
 ---
 
