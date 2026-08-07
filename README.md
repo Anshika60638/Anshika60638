@@ -1,85 +1,263 @@
 <h1 align="center">Hi 👋, I'm Anshika Jain</h1>
 
+<h3 align="center">Aspiring Data Analyst | B.Tech CSE (AI & DS) Student</h3>
+
 <p align="center">
-  🌱 B.Tech CSE (AI & DS) @ Panipat Institute of Engineering and Technology  
-  <br>📍 From Sonipat, Haryana | 🎓 3rd Year | CGPA: 8.26
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Visualization+Enthusiast;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+
+<a href="https://anshika-jain.netlify.app/">
+<img src="https://img.shields.io/badge/🌐Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://leetcode.com/u/Anshika_Jain95/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/Anshika60638">
+<img src="https://img.shields.io/badge/GitHub-Anshika60638-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
-"<img align= "right" width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/f0fa2ff9-9bf9-4ae3-8606-d9610f4bbd09" />
-### 💡 About Me
-<p align="left">🌐 B.Tech CSE (AI-DS)'28| PIET,Kurukshetra  <br>🔭 I’m currently working as an HR Intern at Hair Coaction<br>🤖 Learning Data Science, Machine Learning & Python<br>💬 Ask me about Teamwork, Coordination, and Project Planning<br>🌐 Interested in building tools that solve real-world problems<br>💡 I enjoy working on data-driven projects, building web tools, and learning by doing  <br>🤝 Also handling HR and coordination roles in tech teams — because tech + people = ❤<br>✨ Fun fact: I believe good memes and clean code make everything better 😄</p>
 
-###
+# 👩‍💻 About Me
 
-<h2 align="left">🏆 Achievements</h2>
+🎓 **B.Tech CSE (Artificial Intelligence & Data Science)**  
+🏫 **Panipat Institute of Engineering & Technology (PIET), Panipat**  
+📍 **Sonipat, Haryana**  
+📊 **CGPA:** 8.26
 
-###
+💡 I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
 
-<p align="left">✅ Successfully completed a Data Science Internship at Placify Technologies  <br>🔍 Worked on real-time data preprocessing, visualization & model building  <br>👩‍💼 Handled HR responsibilities in Hair Coaction: Intern onboarding, task distribution  <br>🌟 Coordinated with 10+ team members to launch a functional website  <br>🚀 Built projects using Python, Pandas, Matplotlib, Scikit-learn</p>
+📈 Interested in:
 
-###
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Machine Learning
 
-<h2 align="left">🚀 Tech Stack I Work With</h2>
+🌱 Currently Learning
 
-###
+- Python
+- SQL
+- Power BI
+- Cloud Computing
+- Docker
+- Data Structures & Algorithms
 
-<h4 align="left">💻 Languages & Tools</h4>
+🚀 I enjoy building data-driven projects and continuously improving my analytical and problem-solving skills.
 
-###
+---
+
+# 🚀 Featured Projects
+
+## 📊 Retail Sales & Profit Dashboard
+
+✔ Power BI Dashboard
+
+✔ KPI Tracking
+
+✔ Sales Trend Analysis
+
+✔ Profit Analysis
+
+---
+
+## 📱 Teen Phone Addiction Dashboard
+
+✔ Excel Dashboard
+
+✔ Interactive Charts
+
+✔ Data Visualization
+
+---
+
+## 💰 Personal Finance Intelligence System *(In Progress)*
+
+✔ Expense Tracking
+
+✔ Spending Analysis
+
+✔ Financial Insights
+
+---
+
+## 💻 LeetCode Journey
+
+✔ Regular DSA Practice
+
+✔ Problem Solving
+
+---
+
+# 🛠 Tech Stack
+
+<h4 align="left">💻 Languages</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
-###
-
-<h4 align="left">🧠 Data Science Tools</h4>
-
-###
+<h4 align="left">📊 Data Analytics</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </div>
 
-###
-
-<h4 align="left">🛠 IDE & Platforms</h4>
-
-###
+<h4 align="left">🗄 Databases</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 </div>
 
-###
-
-<h3 align="left">🤝 Connect with Me</h3>
-
-###
+<h4 align="left">⚙ Tools & Frameworks</h4>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/anshika-jain-b30172346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jainanshika26?igsh=MTc0Z2FxanAxcTlmNA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40" alt="Streamlit" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" />
 </div>
 
-###
+<h4 align="left">☁️ Cloud & Deployment</h4>
 
+<div align="left">
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" height="40" alt="Vercel" />
+</div>
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anshika60638&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika60638&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Anshika60638&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anshika60638&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Python
+- SQL
+- Power BI
+- Cloud Computing
+- Docker
+- Data Structures & Algorithms
+
+---
+
+# 🌐 Portfolio
+
+🔗 **https://anshika-jain.netlify.app/**
+
+---
+
+# 💻 Coding Profiles
+
+🟠 **LeetCode**
+
+https://leetcode.com/u/Anshika_Jain95/
+
+🐙 **GitHub**
+
+https://github.com/Anshika60638
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/anshika-jain-b30172346">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:jainanshika366@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Anshika60638&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
