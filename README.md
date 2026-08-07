@@ -52,7 +52,20 @@
 🚀 I enjoy building data-driven projects and continuously improving my analytical and problem-solving skills.
 
 ---
+## 🏆 Achievements
 
+- 🎓 Pursuing **B.Tech in Computer Science Engineering (AI & DS)** with a **CGPA of 8.26**
+
+- 💼 Successfully completed a **Data Science Internship** at **Placify Technologies**
+
+- 📊 Built multiple data analytics projects using **Power BI, Excel, Python and SQL**
+
+- 💻 Solving **Data Structures & Algorithms** problems on **LeetCode** to strengthen problem-solving skills
+
+- 📈 Experienced in developing interactive dashboards using **Power BI** and **Excel**
+
+- 🤖 Worked on Machine Learning projects using **Python, Pandas, NumPy, Matplotlib and Scikit-Learn**
+---
 # 🛠 Tech Stack
 
 <h4 align="left">💻 Languages</h4>
