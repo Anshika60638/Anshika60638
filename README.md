@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/Anshika60638">
-<img src="https://img.shields.io/badge/GitHub-Anshika60638-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Anshika60638-navy?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -58,11 +58,8 @@
 ## 📊 Retail Sales & Profit Dashboard
 
 ✔ Power BI Dashboard
-
 ✔ KPI Tracking
-
 ✔ Sales Trend Analysis
-
 ✔ Profit Analysis
 
 ---
@@ -70,9 +67,7 @@
 ## 📱 Teen Phone Addiction Dashboard
 
 ✔ Excel Dashboard
-
 ✔ Interactive Charts
-
 ✔ Data Visualization
 
 ---
@@ -80,9 +75,7 @@
 ## 💰 Personal Finance Intelligence System *(In Progress)*
 
 ✔ Expense Tracking
-
 ✔ Spending Analysis
-
 ✔ Financial Insights
 
 ---
@@ -90,7 +83,6 @@
 ## 💻 LeetCode Journey
 
 ✔ Regular DSA Practice
-
 ✔ Problem Solving
 
 ---
@@ -193,27 +185,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anshika60638&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Python
-- SQL
-- Power BI
-- Cloud Computing
-- Docker
-- Data Structures & Algorithms
-
----
-
 # 🌐 Portfolio
 
 🔗 **https://anshika-jain.netlify.app/**
@@ -249,9 +220,7 @@ https://github.com/Anshika60638
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Anshika60638&label=Profile+Views&color=0e75b6&style=flat"/>
-
 </p>
 
 ---
