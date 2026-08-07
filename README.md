@@ -153,12 +153,41 @@
 </p>
 
 ---
-
-# 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anshika60638&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anshika60638&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika60638&theme=tokyonight&hide_border=true" width="48%" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika60638&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
+
+</p>
+
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshika60638&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Anshika60638/Anshika60638/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
 
