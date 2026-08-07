@@ -142,17 +142,20 @@
   <img src="https://cdn.simpleicons.org/vercel/ffffff" height="40" alt="Vercel" />
 </div>
 
+---
+
 # 📈 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anshika60638&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Anshika60638&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika60638&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anshika60638&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -160,7 +163,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika60638&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
----
 ---
 
 ## 📈 Contribution Activity
